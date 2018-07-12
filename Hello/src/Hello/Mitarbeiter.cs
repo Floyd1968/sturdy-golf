@@ -16,5 +16,7 @@ namespace Hello
 
         public void DoSomethingMore() {; }
 
+        public void DoSomethingOther() {; }
+
     }
 }
