@@ -12,7 +12,9 @@ namespace Hello
         /// <summary>
         /// Do something
         /// </summary>
-        public DoSomething() {; }
+        public void DoSomething() {; }
+
+        public void DoSomethingMore() {; }
 
     }
 }
