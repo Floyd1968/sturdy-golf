@@ -8,5 +8,11 @@ namespace Hello
     public class Mitarbeiter
     {
         public Mitarbeiter() { }
+
+        /// <summary>
+        /// Do something
+        /// </summary>
+        public DoSomething() {; }
+
     }
 }
